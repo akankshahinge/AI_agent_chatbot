@@ -86,5 +86,12 @@ OPENAI_API_KEY="your_openai_key_here"
 GROQ_API_KEY =""
 TAVILY_API_KEY=""
 ```
+### UI Snapshots
+![UI](images/banner.png)
+![UI](images/banner.png)
+
+### Swagger Docs (/chat endpoint)
+![UI](images/banner.png)
+![UI](images/banner.png)
 
 ---
