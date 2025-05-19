@@ -92,6 +92,6 @@ TAVILY_API_KEY=""
 
 ### Swagger Docs (/chat endpoint)
 ![UI](images/Postman1.png)
-![UI](images/Postman2.png)
+![UI](images/postman2.png)
 
 ---
