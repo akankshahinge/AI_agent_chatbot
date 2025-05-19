@@ -87,11 +87,11 @@ GROQ_API_KEY =""
 TAVILY_API_KEY=""
 ```
 ### UI Snapshots
-![UI](images/banner.png)
-![UI](images/banner.png)
+![UI](images/Agent_UI.png)
+![UI](images/Agent_response.png)
 
 ### Swagger Docs (/chat endpoint)
-![UI](images/banner.png)
-![UI](images/banner.png)
+![UI](images/Postman1.png)
+![UI](images/Postman2.png)
 
 ---
